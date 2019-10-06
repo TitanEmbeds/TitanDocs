@@ -1,6 +1,6 @@
 # @Titan, make me coffee
 
-Okay, maybe not, you probably already had way too much anyways. This page will describe what you can make Titan do by using commands. After [having the bot added to your server](https://discordapp.com/oauth2/authorize?&client_id=299403260031139840&scope=bot&permissions=641195117), you will be able to make her do whatever you want.
+Okay, maybe not. You probably already had way too much anyways. This page will describe what you can make Titan do by using commands. After [having the bot added to your server](https://discordapp.com/oauth2/authorize?&client_id=299403260031139840&scope=bot&permissions=641195117), you will be able to make her do whatever you want.
 
 # @Titan, what can you do?
 
