@@ -20,6 +20,7 @@ Click or tap on the modify button of the server you which to use to use for your
 ## Getting the embed URL
 
 That's it! You'll now be able to view a server's administration panel by selecting it where you'll be able to adjust your embed's settings and get the embed URL. There are two types of embed URLs:
+
 * Direct Link
 * Iframe Embed
 
