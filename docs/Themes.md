@@ -1,4 +1,5 @@
-# Looking pretty good!
+# Themes
+## Looking pretty good!
 
 Titan Embeds has a selection of pre-built themes you may use for your embed. These themes are fully compatible with custom CSS and approved by Titan's developers. As of August 2018, these themes include:
 
