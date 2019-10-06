@@ -1,8 +1,9 @@
-# Explain me your purpose
+# Purpose
+## What is this?
 
 Well, we don't know either. Just kidding, Titan Embeds is a unique, stripped down version of your Discord server, embeddable on any webpages alike!
 
-# What's teh LORE
+## What's teh LORE
 
 There was a time when embedding your Discord chat on a webpage a web page was not possible. One must go into extreme measures to ensure that they do not break the Cross Origin policy that Discord client is enforcing, which resulted in many very sad outcomes. Many users have also complained that the Discord's built-in widget does not include the chat itself. What is the point of embedding Discord without chat?!
 

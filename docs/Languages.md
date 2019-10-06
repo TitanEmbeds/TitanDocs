@@ -1,4 +1,5 @@
-# 你喜欢用你不懂的语言阅读文字吗？
+# Languages
+## 你喜欢用你不懂的语言阅读文字吗？
 Yeah, me neither. Luckily, thanks to all of our awesome translators over on [Crowdin](http://translate.titanembeds.com/project/titanembeds), Titan Embeds is available in multiple languages! By default, your embed will automatically select a language based on the user's browser settings. This feature should perfectly integrate with any multilingual sites. The following languages are available as of August 2018:
 
 * Catalan (Català) [ca_ES]
@@ -28,10 +29,10 @@ Yeah, me neither. Luckily, thanks to all of our awesome translators over on [Cro
 
 The translators for each language are credited on [Titan Embeds' about page](https://titanembeds.com/about). Translators that are member of our Discord server can be recognised by their translator role.
 
-# I want to help!
+## I want to help!
 
 Klingt gut! Head over to Crowdin and [create an account](http://translate.titanembeds.com/join). After you've done so, verify your e-mail address and start translating right away!
 
-# I don't want my embed to automatically select a language
+## I don't want my embed to automatically select a language
 
 You can force the embed to use a specific language by appending a query paramater at the end of your embed's URL. In this case, you should use: ``lang=<language>``. For example, if you'd like to force the embed to, say, use the Dutch language, the query parameter should look like this: ``lang=nl_NL``. If you did everything correctly, your link should look similar to this one: ``https://titanembeds.com/embed/295085744249110529?lang=nl_NL``. Dat is handig!

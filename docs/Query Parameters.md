@@ -1,9 +1,10 @@
-# Make your embed yours
+# Query parameters
+## Make your embed yours
 Query parameters allow you to customise every instance of your embed, be it a theme, setting a default channel, a language or something completely different! A list can be found on [Titan Embeds' website](https://titanembeds.com/about).
 
 Query parameters are in the format of key-value pairs. They are appended after your embed URL such that it would look like so: ``https://titanembeds.com/embed/1234567890?css=1&defaultchannel=81387914189078528&theme=DiscordDark``.
 
-# Appending the first parameter to your embed URL
+## Appending the first parameter to your embed URL
 
 Let's say your embed URL is ``https://titanembeds.com/embed/295085744249110529`` and want to use the ``theme`` (or any other) parameter, how would you go about doing so? If you have an URL that does not use any other parameter, append "?" to the URL. This will essentially tell Titan that you're about to use query parameters in your URL.
 

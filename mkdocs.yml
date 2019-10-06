@@ -10,7 +10,7 @@ theme:
     primary: "light blue"
     accent: "light blue"
   font:
-    text: "Ubuntu"
+    text: "Whitney"
     code: "Ubuntu Mono"
   logo:
     icon: "folder_shared"

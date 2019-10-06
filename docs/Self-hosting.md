@@ -1,4 +1,5 @@
-# print("Let's get things running")
+# Self-hosting
+## print("Let's get things running")
 
 **Under normal circumstances, it's recommended to let [Titan Embeds](https://titanembeds.com/) host your embeds. Hosting a copy of Titan yourself requires time, resources and a fair amount of knowledge!**
 
@@ -6,7 +7,7 @@ There are two parts that integrate nicely together. The web app (website) handle
 
 Once you cloned the project, install the Python dependencies with ``pip install -r requirements.txt``. Ensure that you are utilising Python 3.6's pip by checking `pip --version`.
 
-# CloudDeploy["All your database are belong to us"]
+## CloudDeploy["All your database are belong to us"]
 
 Okay, not really, it's all yours, but you will have to set one up in order to host Titan. For the database to work with the webapp and the discordbot, one must use alembic to migrate their databases to the current database state. To do so, please follow these instructions. PostgreSQL supports proper indexing and suitable for Titan needs. For this reason, Titan only supports using a PostgreSQL database.
 
@@ -18,10 +19,10 @@ Okay, not really, it's all yours, but you will have to set one up in order to ho
 
 Titan also requires a Redis instance in order to function. There are no specific prerequisites before utilising Titan with Redis. Follow the [official Redis installation instructions to install](https://redis.io/topics/quickstart) and start using Redis.
 
-# $ echo "Ansible Playbooks"
+## $ echo "Ansible Playbooks"
 
 If you happen to have a copy of Ubuntu on your server, you may head to our [Ansible Playbooks repository](https://github.com/TitanEmbeds/ansible-playbooks) and perform a nearly automatic installation of Titan.
 
-# console.log("Need some help?");
+## console.log("Need some help?");
 
 There's a lot that can go wrong while trying to set-up Titan on your server. Feel free to visit our [Discord server](https://discord.io/Titan) to ask any questions!
