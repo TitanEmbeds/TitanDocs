@@ -1,19 +1,19 @@
 # Metadata
-site_name: Jelle's Character Directory
-site_description: "A character directory site containing information about original characters."
-site_author: "Jelle Zwiers"
+site_name: Titan Docs
+site_description: "Documentation for Titan Embeds"
+site_author: "Jelle Z."
 
 # Theming
 theme:
   name: "material"
   palette:
-    primary: "light blue"
-    accent: "light blue"
+    primary: "indigo"
+    accent: "indigo"
   font:
     text: "Whitney"
     code: "Ubuntu Mono"
   logo:
-    icon: "folder_shared"
+    icon: "logo.svg"
 
 # Extensions
 markdown_extensions:
@@ -27,8 +27,8 @@ extra_javascript:
   - "script.js"
 
 # Repository
-repo_url: "https://github.com/jelle619/jellezwie.rs"
-edit_uri: "edit/master/mkdocs/characters/docs/"
+repo_url: "https://github.com/jelle619/titandocs/"
+edit_uri: "edit/master/docs/"
 
 # Copyright
-copyright: "&copy; Jelle Z. and others"
+copyright: "Licensed under GNU Affero General Public License v3.0"
