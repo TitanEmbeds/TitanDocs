@@ -1,0 +1,31 @@
+# Metadata
+site_name: Titan Docs
+site_description: "Documentation for Titan Embeds"
+site_author: "Jelle Z."
+
+# Theming
+theme:
+  name: "material"
+  palette:
+    primary: "indigo"
+    accent: "indigo"
+  logo:
+    icon: "logo.svg"
+
+# Extensions
+markdown_extensions:
+  - admonition
+  - footnotes
+
+# Import
+extra_css:
+  - "style.css"
+extra_javascript:
+  - "script.js"
+
+# Repository
+repo_url: "https://github.com/jelle619/titandocs"
+edit_uri: "edit/master/mkdocs/docs/"
+
+# Copyright
+copyright: "Licensed under GNU Affero General Public License v3.0"
