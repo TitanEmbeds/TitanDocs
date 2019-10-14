@@ -13,7 +13,7 @@ theme:
     text: "Whitney"
     code: "Ubuntu Mono"
   logo:
-    icon: "book"
+    icon: "img/logo.svg"
 
 # Extensions
 markdown_extensions:
@@ -27,7 +27,7 @@ extra_javascript:
   - "script.js"
 
 # Repository
-repo_url: "https://github.com/jelle619/titandocs/"
+repo_url: "https://github.com/TitanEmbeds/TitanDocs/"
 edit_uri: "edit/master/docs/"
 
 # Copyright
