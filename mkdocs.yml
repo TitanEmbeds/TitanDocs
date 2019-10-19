@@ -13,7 +13,7 @@ theme:
     text: "Whitney"
     code: "Ubuntu Mono"
   logo:
-    icon: "img/logo.svg"
+    icon: "img/logo.png"
 
 # Extensions
 markdown_extensions:
