@@ -23,7 +23,7 @@ It just doesn't ends here! Titan is jam-packed with many features, such as guest
 Please note that Titan should not be used as a replacement for Discord. It is meant to be run alongside it.
 
 ## Support
-You can get live support over on our Discord server, either through your [Discord client](https://discord.io/Titan) or our [Titan embed](https://titanembeds.com/embed/295085744249110529). Alternative, you can use the form below.
+You can get live support over on our Discord server, either through your [Discord client](https://discord.io/Titan) or our [Titan embed](https://titanembeds.com/embed/295085744249110529). Alternatively, you can use the form below.
 
 <form name="contact" action="https://formsubmit.co/EndenDragon@titanembeds.com
 " method="POST">
