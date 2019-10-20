@@ -7,9 +7,9 @@ There are two parts that integrate nicely together. The web app (website) handle
 
 Once you cloned the project, install the Python dependencies with ``pip install -r requirements.txt``. Ensure that you are utilising Python 3.6's pip by checking `pip --version`.
 
-## CloudDeploy["All your database are belong to us"]
+## CloudDeploy["Let's talk databases"]
 
-Okay, not really, it's all yours, but you will have to set one up in order to host Titan. For the database to work with the webapp and the discordbot, one must use alembic to migrate their databases to the current database state. To do so, please follow these instructions. PostgreSQL supports proper indexing and suitable for Titan needs. For this reason, Titan only supports using a PostgreSQL database.
+All your base are belong to us! Okay, not really, it's all yours, but you will have to set one up in order to host Titan. For the database to work with the webapp and the discordbot, one must use alembic to migrate their databases to the current database state. To do so, please follow these instructions. PostgreSQL supports proper indexing and suitable for Titan needs. For this reason, Titan only supports using a PostgreSQL database.
 
 1. Install alembic with Python 3.6's pip `pip install alembic`
 2. Change your directory to the webapp where the alembic files are located cd webapp
