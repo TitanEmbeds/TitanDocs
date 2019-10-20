@@ -30,17 +30,17 @@ You can get live support over on our Discord server, either through your [Discor
   <fieldset>
     <legend>Your information</legend>
     Name<br>
-    <input type="text" name="name" placeholder="How would you like to be addressed?" required><br>
+    <input type="text" name="name" placeholder="How would you like to be addressed?" style="width: 100%" required><br>
     E-mail address<br>
-    <input type="email" name="email" placeholder="Where should we send our response to?" required>
+    <input type="email" name="email" placeholder="Where should we send our response to?" style="width: 100%" required>
   </fieldset>
   <br>
   <fieldset>
     <legend>Your message</legend>
     Subject<br>
-    <input type="text" name="subject" placeholder="What is your message about?" required><br>
+    <input type="text" name="subject" placeholder="What is your message about?" style="width: 100%" required><br>
     Message<br>
-    <textarea name="message" placeholder="What would you like to say, nitty-gritty details included?" rows="4" required></textarea>
+    <textarea name="message" placeholder="What would you like to say, nitty-gritty details included?" rows="4" style="width: 100%" required></textarea>
   </fieldset>
   <p>Any data you submit is subject to our <a href="https://titanembeds.com/privacy">privacy policy</a>.<p>
   <input type="submit" value="Submit">
