@@ -36,11 +36,6 @@ Our team consists of ponies, wizards, anime girls, dragons and rarely if ever st
 </div>
 
 <div class="admonition person">
-<p class="admonition-title">AppleDash</p>
-<p>From the shadows of Poniverse, AppleDash swiftly jumped in and offered his server to make websockets possible!</p>
-</div>
-
-<div class="admonition person">
 <p class="admonition-title">Addy</p>
 <p>Do you know what makes CSS tick? Me neither... Addy on the other hand knows exactly how to cook a perfect CSS brew.</p>
 </div>
@@ -63,6 +58,11 @@ Our team consists of ponies, wizards, anime girls, dragons and rarely if ever st
 <div class="admonition person">
 <p class="admonition-title">Riva</p>
 <p>This guy used to host our lovely bot. Without him, Titan probably wouldn't have been that great (ahem, indefinitely offline bot).</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">AppleDash</p>
+<p>From the shadows of Poniverse, AppleDash jumped in and offered his server to make websockets possible and kept our service alive until OVH mysteriously made his server disappear.</p>
 </div>
 
 <div class="admonition person">
