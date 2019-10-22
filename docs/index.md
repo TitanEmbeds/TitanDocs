@@ -27,27 +27,27 @@ Our team consists of ponies, wizards, anime girls, dragons and rarely if ever st
 
 <div class="admonition person">
 <p class="admonition-title">EndenDragon</p>
-<p>The one who started this project. Legends say that the place he worked at (BronyTV) decided to ditch IRC for Discord, and Titan was the product of this chaos.</p>
+<p>The one who started this project. Legends say that the place he worked at (BronyTV) decided to ditch IRC for Discord. Titan was the product of this chaos.</p>
 </div>
 
 <div class="admonition person">
 <p class="admonition-title">Aelwen</p>
-<p>This gal manages our server and figures out how to keep the hamsters in the basement in line! Without her they might all run away!</p>
+<p>This gal manages our server and figures out how to keep the hamsters in the basement in line! Without her, they might all run away!</p>
 </div>
 
 <div class="admonition person">
 <p class="admonition-title">AppleDash</p>
-<p>From the shadows of Poniverse, AppleDash swiftly jumps in and offered his server to make websockets possible!</p>
+<p>From the shadows of Poniverse, AppleDash swiftly jumped in and offered his server to make websockets possible!</p>
 </div>
 
 <div class="admonition person">
 <p class="admonition-title">Addy</p>
-<p>Do you know what makes CSS ticks? Me either... However with Addy, being the experienced one here, knows exactly how to cook a perfect CSS brew.</p>
+<p>Do you know what makes CSS tick? Me neither... Addy on the other hand knows exactly how to cook a perfect CSS brew.</p>
 </div>
 
 <div class="admonition person">
 <p class="admonition-title">Jelle</p>
-<p>Swiftly keeping Titan documentation up-to-date! Creates excellent themes for all to enjoy.</p>
+<p>Swiftly keeps Titan's documentation site up-to-date and creates excellent themes for all to enjoy. He may not bite, but he does breathe fire!</p>
 </div>
 
 <div class="admonition person">
