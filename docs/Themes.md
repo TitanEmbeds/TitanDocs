@@ -10,7 +10,7 @@ Titan Embeds has a selection of pre-built themes you may use for your embed. The
 * MetroEdge
 
 You can select a theme for your embed by using the ``theme`` query parameter. It's used as follows:
-```theme=<ThemeName>```.
+``theme=<ThemeName>``.
 You have to replace ``<ThemeName>`` with the name of the theme you would like to use, for example: ``theme=FireWyvern``. Query parameters get appended to the end of your embed's URL like so: ``https://titanembeds.com/embed/295085744249110529?theme=FireWyvern``.
 
 # Demo

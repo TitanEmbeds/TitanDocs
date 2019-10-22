@@ -22,26 +22,13 @@ It just doesn't ends here! Titan is jam-packed with many features, such as guest
 
 Please note that Titan should not be used as a replacement for Discord. It is meant to be run alongside it.
 
-## Support
-You can get live support over on our Discord server, either through your [Discord client](https://discord.io/Titan) or our [Titan embed](https://titanembeds.com/embed/295085744249110529). Alternatively, you can use the form below.
+## Cool people
+Our team consists of ponies, wizards, anime girls, dragons and rarely if ever strange organisms of the species "homo sapiens". We wouldn't be here without these awesome people!
 
-<form name="contact" action="https://formsubmit.co/EndenDragon@titanembeds.com
-" method="POST">
-  <fieldset>
-    <legend>Your information</legend>
-    Name<br>
-    <input type="text" name="name" placeholder="How would you like to be addressed?" style="width: 100%" required><br>
-    E-mail address<br>
-    <input type="email" name="email" placeholder="Where should we send our response to?" style="width: 100%" required>
-  </fieldset>
-  <br>
-  <fieldset>
-    <legend>Your message</legend>
-    Subject<br>
-    <input type="text" name="subject" placeholder="What is your message about?" style="width: 100%" required><br>
-    Message<br>
-    <textarea name="message" placeholder="What would you like to say, nitty-gritty details included?" rows="4" style="width: 100%" required></textarea>
-  </fieldset>
-  <p>Any data you submit is subject to our <a href="https://titanembeds.com/privacy">privacy policy</a>.<p>
-  <input type="submit" value="Submit">
-</form>
+<div class="admonition person">
+<p class="admonition-title">Hi there!</p>
+<p>We're currently getting a list of people. Please be patient!</p>
+</div>
+
+## Support
+You can get live support over on our Discord server, either through your [Discord client](https://discord.io/Titan) or our [Titan embed](https://titanembeds.com/embed/295085744249110529).
