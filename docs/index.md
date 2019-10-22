@@ -47,7 +47,7 @@ Our team consists of ponies, wizards, anime girls, dragons and rarely if ever st
 
 <div class="admonition person">
 <p class="admonition-title">Jelle</p>
-<p>Swiftly keeps Titan's documentation site up-to-date and creates excellent themes for all to enjoy. He may not bite, but he does breathe fire!</p>
+<p>Swiftly keeps Titan's documentation site up-to-date and creates excellent themes for all to enjoy. He may not bite, but he definitely breathes fire!</p>
 </div>
 
 <div class="admonition person">
