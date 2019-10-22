@@ -35,9 +35,10 @@
 }
 
 .admonition.person > .admonition-title {
-  background-color: rgba(122,136,201,.1)
+  background-color: rgba(122,136,201,.1);
 }
 
 .admonition.person > .admonition-title:before {
-  content: "person"
+  color: rgb(122,136,201);
+  content: "person";
 }

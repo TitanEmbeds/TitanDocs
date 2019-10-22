@@ -26,8 +26,58 @@ Please note that Titan should not be used as a replacement for Discord. It is me
 Our team consists of ponies, wizards, anime girls, dragons and rarely if ever strange organisms of the species "homo sapiens". We wouldn't be here without these awesome people!
 
 <div class="admonition person">
-<p class="admonition-title">Hi there!</p>
-<p>We're currently getting a list of people. Please be patient!</p>
+<p class="admonition-title">EndenDragon</p>
+<p>The one who started this project. Legends say that the place he worked at (BronyTV) decided to ditch IRC for Discord, and Titan was the product of this chaos.</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">Aelwen</p>
+<p>This gal manages our server and figures out how to keep the hamsters in the basement in line! Without her they might all run away!</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">AppleDash</p>
+<p>From the shadows of Poniverse, AppleDash swiftly jumps in and offered his server to make websockets possible!</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">Addy</p>
+<p>Do you know what makes CSS ticks? Me either... However with Addy, being the experienced one here, knows exactly how to cook a perfect CSS brew.</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">Jelle</p>
+<p>Swiftly keeping Titan documentation up-to-date! Creates excellent themes for all to enjoy.</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">Codefined</p>
+<p>During the busy holiday season, he swooped in and kept the site online. He is very experienced and lends a friendly hand!</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">Ry</p>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et risus nibh.</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">Riva</p>
+<p>This guy used to host our lovely bot. Without him, Titan probably wouldn't have been that great (ahem, indefinitely offline bot).</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">dotJS</p>
+<p>Although been well known for his name of JavaScript, he helped us improve the embeds with his CSS skillz.</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">JustMaffie</p>
+<p>Have you heard of JustMaffie? He has done quite some developing for Titan.</p>
+</div>
+
+<div class="admonition person">
+<p class="admonition-title">Semic</p>
+<p>From our friends over at ProCord, Semic made most of our awesome and heroic Titan logo.</p>
 </div>
 
 ## Support
