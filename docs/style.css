@@ -30,14 +30,14 @@
 
 /* Set person admonitation */
 
-.md-typeset .admonition.people {
+.admonition.person {
   border-left-color: rgb(122,136,201);
 }
 
-.md-typeset .admonition.people > .admonition-title {
+.admonition.person > .admonition-title {
   background-color: rgba(122,136,201,.1)
 }
 
-.md-typeset .admonition.people > .admonition-title:before {
+.admonition.person > .admonition-title:before {
   content: "person"
 }
