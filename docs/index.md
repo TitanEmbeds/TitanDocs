@@ -1,5 +1,5 @@
 # Welcome to Titan Docs!
-You have reached the documentation site for Titan Embeds. It will provide you all the resources you need to get the most out of your embed. In case you're interested, you can create your embed for free on the Titan Embeds website. If you need help with that, read up on "First time setup". Also, please consider [joining our Discord server](https://discord.io/Titan).
+You have reached the documentation site for Titan Embeds. It will provide you all the resources you need to get the most out of your embed. In case you're interested, you can create your embed for free on the Titan Embeds website. If you need help with that, read up on "First time setup". Also, please consider [joining our Discord server](https://discordapp.com/invite/pFDDtcN).
 
 ## What is Titan Embeds?
 You don't know? Well, let me tell you a story.
@@ -66,4 +66,4 @@ Our team consists of ponies, wizards, anime girls, dragons and rarely if ever st
 </div>
 
 ## Support
-You can get live support over on our Discord server, either through your [Discord client](https://discord.io/Titan) or our [Titan embed](https://titanembeds.com/embed/295085744249110529).
+You can get live support over on our Discord server, either through your [Discord client](https://discordapp.com/invite/pFDDtcN) or our [Titan embed](https://titanembeds.com/embed/295085744249110529).

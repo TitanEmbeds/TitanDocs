@@ -1,14 +1,14 @@
 /* Titan Embeds branding */
 .md-header {
-  background-color: rgb(122,136,201) !important;
+  background-color: rgb(122,136,201);
 }
 
 .md-typeset a {
-  color: rgb(122,136,201) !important;
+  color: rgb(122,136,201);
 }
 
 .md-nav__link--active, .md-nav__link:active {
-  color: rgb(122,136,201) !important;
+  color: rgb(122,136,201);
 }
 
 @font-face {
