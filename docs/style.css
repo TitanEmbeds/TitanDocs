@@ -1,3 +1,16 @@
+/* Titan Embeds brand colours */
+.md-header {
+  background-color: #7986cb;
+}
+
+.md-typeset a {
+  color: #7986cb;
+}
+
+.md-nav__link--active, .md-nav__link:active {
+  color: #7986cb;
+}
+
 /* Set Witney as default font */
 
 @font-face {

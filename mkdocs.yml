@@ -6,9 +6,6 @@ site_author: "Jelle Z."
 # Theming
 theme:
   name: "material"
-  palette:
-    primary: "7986CB"
-    accent: "7986CB"
   font:
     text: "Whitney"
     code: "Ubuntu Mono"
@@ -28,15 +25,6 @@ extra_javascript:
 # Repository
 repo_url: "https://github.com/TitanEmbeds/TitanDocs/"
 edit_uri: "edit/master/docs/"
-
-# social
-
-extra:
-  social:
-    - type: 'github'
-      link: 'https://github.com/TitanEmbeds'
-    - type: 'discord'
-      link: 'https://discordapp.com/invite/pFDDtcN'
 
 # Copyright
 copyright: "Licensed under the GNU Affero General Public License v3.0"
