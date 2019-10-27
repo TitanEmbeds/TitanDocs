@@ -1,5 +1,5 @@
 # Welcome to Titan Docs!
-You have reached the documentation site for Titan Embeds. It will provide you all the resources you need to get the most out of your embed. In case you're interested, you can create your embed for free on the Titan Embeds website. If you need help with that, read up on "First time setup". Also, please consider [joining our Discord server](https://discordapp.com/invite/pFDDtcN).
+You have reached Titan Docs, the documentation site for Titan Embeds. It will provide you all the resources you need to get the most out of your embed. In case you're interested, you can create your embed for free on the Titan Embeds website. If you need help with that, read up on "First time setup". Also, please consider [joining our Discord server](https://discordapp.com/invite/pFDDtcN).
 
 ## What is Titan Embeds?
 You don't know? Well, let me tell you a story.
