@@ -56,23 +56,8 @@ Our team consists of ponies, wizards, anime girls, dragons and rarely if ever st
 </div>
 
 <div class="admonition person">
-<p class="admonition-title">Riva</p>
-<p>This guy used to host our lovely bot. Without him, Titan probably wouldn't have been that great (ahem, indefinitely offline bot).</p>
-</div>
-
-<div class="admonition person">
 <p class="admonition-title">AppleDash</p>
 <p>From the shadows of Poniverse, AppleDash jumped in and offered his server to make websockets possible and kept our service alive until OVH mysteriously made his server disappear.</p>
-</div>
-
-<div class="admonition person">
-<p class="admonition-title">dotJS</p>
-<p>Although been well known for his name of JavaScript, he helped us improve the embeds with his CSS skillz.</p>
-</div>
-
-<div class="admonition person">
-<p class="admonition-title">JustMaffie</p>
-<p>Have you heard of JustMaffie? He has done quite some developing for Titan.</p>
 </div>
 
 <div class="admonition person">
