@@ -7,8 +7,8 @@ site_author: "Jelle Z."
 theme:
   name: "material"
   palette:
-    primary: "indigo"
-    accent: "indigo"
+    primary: "7986CB"
+    accent: "7986CB"
   font:
     text: "Whitney"
     code: "Ubuntu Mono"
