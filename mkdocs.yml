@@ -29,5 +29,14 @@ extra_javascript:
 repo_url: "https://github.com/TitanEmbeds/TitanDocs/"
 edit_uri: "edit/master/docs/"
 
+# social
+
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/TitanEmbeds'
+    - type: 'discord'
+      link: 'https://discordapp.com/invite/pFDDtcN'
+
 # Copyright
 copyright: "Licensed under the GNU Affero General Public License v3.0"
