@@ -1,44 +1,42 @@
-/* Titan Embeds brand colours */
+/* Titan Embeds branding */
 .md-header {
-  background-color: #7986cb;
+  background-color: rgb(122,136,201);
 }
 
 .md-typeset a {
-  color: #7986cb;
+  color: rgb(122,136,201);
 }
 
 .md-nav__link--active, .md-nav__link:active {
-  color: #7986cb;
-}
-
-/* Set Witney as default font */
-
-@font-face {
-    font-family: Whitney;
-    font-style: light;
-    font-weight: 300;
-    src: url("https://cdn.jsdelivr.net/gh/TitanEmbeds/Titan@228ba7bbad88cb885cb93f718637e8a7db3c63d7/webapp/titanembeds/static/fonts/whitney_light.woff") format("woff")
+  color: rgb(122,136,201);
 }
 
 @font-face {
-    font-family: Whitney;
-    font-style: normal;
-    font-weight: 500;
-    src: url("https://cdn.jsdelivr.net/gh/TitanEmbeds/Titan@228ba7bbad88cb885cb93f718637e8a7db3c63d7/webapp/titanembeds/static/fonts/whitney_normal.woff") format("woff")
+  font-family: Whitney;
+  font-style: light;
+  font-weight: 300;
+  src: url("https://cdn.jsdelivr.net/gh/TitanEmbeds/Titan@228ba7bbad88cb885cb93f718637e8a7db3c63d7/webapp/titanembeds/static/fonts/whitney_light.woff") format("woff")
 }
 
 @font-face {
-    font-family: Whitney;
-    font-style: medium;
-    font-weight: 600;
-    src: url("https://cdn.jsdelivr.net/gh/TitanEmbeds/Titan@228ba7bbad88cb885cb93f718637e8a7db3c63d7/webapp/titanembeds/static/fonts/whitney_medium.woff") format("woff")
+  font-family: Whitney;
+  font-style: normal;
+  font-weight: 500;
+  src: url("https://cdn.jsdelivr.net/gh/TitanEmbeds/Titan@228ba7bbad88cb885cb93f718637e8a7db3c63d7/webapp/titanembeds/static/fonts/whitney_normal.woff") format("woff")
 }
 
 @font-face {
-    font-family: Whitney;
-    font-style: bold;
-    font-weight: 700;
-    src: url("https://cdn.jsdelivr.net/gh/TitanEmbeds/Titan@228ba7bbad88cb885cb93f718637e8a7db3c63d7/webapp/titanembeds/static/fonts/whitney_bold.woff") format("woff")
+  font-family: Whitney;
+  font-style: medium;
+  font-weight: 600;
+  src: url("https://cdn.jsdelivr.net/gh/TitanEmbeds/Titan@228ba7bbad88cb885cb93f718637e8a7db3c63d7/webapp/titanembeds/static/fonts/whitney_medium.woff") format("woff")
+}
+
+@font-face {
+  font-family: Whitney;
+  font-style: bold;
+  font-weight: 700;
+  src: url("https://cdn.jsdelivr.net/gh/TitanEmbeds/Titan@228ba7bbad88cb885cb93f718637e8a7db3c63d7/webapp/titanembeds/static/fonts/whitney_bold.woff") format("woff")
 }
 
 /* Set person admonitation */
