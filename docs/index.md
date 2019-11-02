@@ -46,11 +46,6 @@ Our team consists of ponies, wizards, anime girls, dragons and rarely if ever st
 </div>
 
 <div class="admonition person">
-<p class="admonition-title">Codefined</p>
-<p>During the busy holiday season, he swooped in and kept the site online. He is very experienced and lends a friendly hand!</p>
-</div>
-
-<div class="admonition person">
 <p class="admonition-title">Ry</p>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et risus nibh.</p>
 </div>
