@@ -23,8 +23,8 @@ extra_javascript:
   - "script.js"
 
 # Repository
-repo_url: "https://github.com/TitanEmbeds/TitanDocs/"
-edit_uri: "edit/master/docs/"
+repo_url: "https://github.com/TitanEmbeds/Titan"
+edit_uri: ""
 
 # Copyright
 copyright: "Licensed under the GNU Affero General Public License v3.0"
