@@ -15,4 +15,6 @@ jobs:
         username: ${{ secrets.USERNAME }}
         key: ${{ secrets.KEY }}
         port: ${{ secrets.PORT }}
-        script: bash ~/TitanDocs/build.sh
+        script: |
+          cd ~/TitanDocs
+          bash ~/TitanDocs/build.sh
