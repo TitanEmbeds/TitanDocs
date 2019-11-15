@@ -116,4 +116,4 @@ After using the query parameter:
 Using multiple query parameters for your embed is very easy! Just  append ``&`` to your URL which already is using at least one other query parameter and follow the steps described in ["Appending the first parameter to your embed URL"](#Appending the first parameter to your embed URL)
 
 !!! warning
-  Never use the same key twice! This will very likely cause issues or break stuff.
+    Never use the same key twice! This will very likely cause issues or break stuff.
