@@ -10,7 +10,7 @@ Before you can start implementing your custom CSS, you first need to obtain a so
 After you have obtained a CSS slot, it will show up on your dashboard.
 
 !!! warning
-  Your custom CSS code is not private! If someone really wanted to, they will be able to see it.
+    Your custom CSS code is not private! If someone really wanted to, they will be able to see it.
 
 ## Assigning a CSS slot to an embed
 

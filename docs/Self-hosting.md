@@ -1,7 +1,7 @@
 # Self-hosting
 
 !!! warning
-  Under normal circumstances, it's recommended to let [Titan Embeds](https://titanembeds.com/) host your embeds. Hosting a copy of Titan yourself requires time, resources and a fair amount of knowledge! If you wish to continue, well, you're certainly one brave fellow!
+    Under normal circumstances, it's recommended to let [Titan Embeds](https://titanembeds.com/) host your embeds. Hosting a copy of Titan yourself requires time, resources and a fair amount of knowledge! If you wish to continue, well, you're certainly one brave fellow!
 
 There are two parts that integrate nicely together. The web app (website) handles the front-end and communication with the database to retrieve server messages, etc. The Discord bot handles the communication between Discord's WebSockets and pushing out the data to the database for the web app. Check out the respective folder for their installation instructions.
 
