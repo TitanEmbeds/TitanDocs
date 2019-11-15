@@ -1,15 +1,15 @@
 # Self-hosting
-## print("Let's get things running")
 
-**Under normal circumstances, it's recommended to let [Titan Embeds](https://titanembeds.com/) host your embeds. Hosting a copy of Titan yourself requires time, resources and a fair amount of knowledge!**
+!!! warning
+  Under normal circumstances, it's recommended to let [Titan Embeds](https://titanembeds.com/) host your embeds. Hosting a copy of Titan yourself requires time, resources and a fair amount of knowledge! If you wish to continue, well, you're certainly one brave fellow!
 
 There are two parts that integrate nicely together. The web app (website) handles the front-end and communication with the database to retrieve server messages, etc. The Discord bot handles the communication between Discord's WebSockets and pushing out the data to the database for the web app. Check out the respective folder for their installation instructions.
 
 Once you cloned the project, install the Python dependencies with ``pip install -r requirements.txt``. Ensure that you are utilising Python 3.6's pip by checking `pip --version`.
 
-## CloudDeploy["Let's talk databases"]
+## print("Setting up your database")
 
-All your base are belong to us! Okay, not really, it's all yours, but you will have to set one up in order to host Titan. For the database to work with the webapp and the discordbot, one must use alembic to migrate their databases to the current database state. To do so, please follow these instructions. PostgreSQL supports proper indexing and suitable for Titan needs. For this reason, Titan only supports using a PostgreSQL database.
+You will have to set up a database in order to host Titan. For the database to work with the webapp and the discordbot, one must use alembic to migrate their databases to the current database state. To do so, please follow these instructions. PostgreSQL supports proper indexing and suitable for Titan needs. For this reason, Titan only supports using a PostgreSQL database.
 
 1. Install alembic with Python 3.6's pip `pip install alembic`
 2. Change your directory to the webapp where the alembic files are located cd webapp

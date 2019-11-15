@@ -1,9 +1,8 @@
 # Commands
-## @Titan, make me coffee
 
-Okay, maybe not. You probably had way too much anyways. This page will describe what you can make Titan do by using commands. After [having the bot added to your server](https://discordapp.com/oauth2/authorize?&client_id=299403260031139840&scope=bot&permissions=641195117), you will be able to make her do whatever you want.
+@Titan, make me coffee! Okay, maybe not. You've probably way to much caffeine in your system already. This page will describe what you can (and can't) make Titan do by using commands. After [having the bot added to your server](https://discordapp.com/oauth2/authorize?&client_id=299403260031139840&scope=bot&permissions=641195117), you will be able to make her do whatever you want.
 
-## @Titan, what can you do?
+## What can Titan do?
 
 You can use the following commands with the Titan bot on your server. Every command is preceded by tagging the bot using ``@Titan#7689``.
 
@@ -21,6 +20,6 @@ Command | Description
 ``ban <username>`` | Bans the user by the username.
 ``kick <username>`` | Kicks the user by the username.
 
-## @Titan, is that all you can do?
+## Meet the dashboard
 
 By [managing the server from your dashboard](https://titanembeds.com/user/dashboard) after logging in with your Discord account, you will be able to more in-depth than just these commands. In case the dashboard still isn't enough for you, you may also use query parameters to further customise your Titan Embeds experience.

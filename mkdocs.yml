@@ -3,10 +3,6 @@ site_name: Titan Docs
 site_description: "Documentation for Titan Embeds"
 site_author: "Jelle Z."
 
-# Navigation
-nav:
-    - 'Return to Titan Embeds': 'https://titanembeds.com'
-
 # Theming
 theme:
   name: "material"

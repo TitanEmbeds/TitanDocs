@@ -1,5 +1,4 @@
 # First-time setup
-## Welcome aboard!
 
 Setting up Titan will only take you minutes, but before you do, please note the following:
 
@@ -30,6 +29,6 @@ A direct link can be used to directly access the chat without having to embed it
 
 An Iframe Embed is the one you would like to use for embedding the chat onto your desired web site. To do so, in most cases, you just need to copy the Iframe Embed into your site's HTML document. You may change its size with the "height=" and "width=" parameters. Your embed should scale with it nicely, as long as you don't make it too crazy.
 
-## ...but that's not it 
+## ...but there's more!
 
 Our embed allows for some insane customisation like themes or, for the more experienced, adding your own CSS code. You can read more about CSS slots on its wiki page.
