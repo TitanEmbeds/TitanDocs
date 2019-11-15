@@ -18,7 +18,7 @@ Each CSS slot has a unique CSS ID assigned to it. It can be found in the CSS edi
 
 You need to use the CSS query parameter with your CSS ID appended to your embed's URL to assign it. If you don't, your embed will load without you custom CSS. Links with and without the CSS query parameter with different CSS IDs may be used interchangeably if so desired.
 
-## How CSS works?
+## How CSS works
 
 Great, I know, but how does CSS work? It has so many options that one page wouldn't really be enough to do it any justice. If you would like to know more, great free sources where include [W3Schools](https://www.w3schools.com/css/default.asp), [FreeCodeCamp](https://learn.freecodecamp.org/responsive-web-design/basic-css) and others.
 
