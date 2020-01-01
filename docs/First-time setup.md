@@ -3,7 +3,7 @@
 Setting up Titan will only take you minutes, but before you do, please note the following:
 
 * You will use your Discord account to sign in. Your Discord account info won't be sent to Titan's servers.
-* You need to have admin permissions for the Discord server you wish to connect to Titan.
+* You need to have admin permissions for the Discord server you wish to connect to Titan to.
 * We recommend you to clear the cookies your web browser has saved. You may need to enable JavaScript as well. In general, we recommend you to use a modern, recently updated browser.
 
 ## Connecting your Discord account
