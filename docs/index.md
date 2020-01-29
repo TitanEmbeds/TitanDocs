@@ -63,4 +63,4 @@ Our team consists of ponies, wizards, anime girls, dragons and in rare cases str
 ## Support
 You can get live support over on our Discord server, either through your [Discord client](https://discordapp.com/invite/pFDDtcN) or our [Titan embed](https://titanembeds.com/embed/295085744249110529).
 
-<iframe src="https://titanembeds.com/embed/295085744249110529?defaultchannel=300367171442442241" frameBorder="0" height="500px" width="100%" allowfullscreen></iframe>
+<div style="border-radius: .1rem"><iframe src="https://titanembeds.com/embed/295085744249110529?defaultchannel=300367171442442241" frameBorder="0" height="500px" width="100%" allowfullscreen></iframe></div>
