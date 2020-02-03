@@ -2,11 +2,11 @@
 
 Titan Embeds has a selection of pre-built themes you may use for your embed. These themes are fully compatible with custom CSS and approved by Titan's developers. As of August 2018, these themes include:
 
-* BetterTitan
-* DiscordDark
-* [FireWyvern](https://titanembeds.com/static/themes/FireWyvern/promo/promo.png)
-* [IceWyvern](https://titanembeds.com/static/themes/IceWyvern/promo/promo.png)
-* MetroEdge
+* [BetterTitan](https://titanembeds.com/embed/295085744249110529?theme=BetterTitan)
+* [DiscordDark](https://titanembeds.com/embed/295085744249110529?theme=DiscordDark)
+* [FireWyvern](https://titanembeds.com/embed/295085744249110529?theme=FireWyvern)
+* [IceWyvern](https://titanembeds.com/embed/295085744249110529?theme=FireWyvern)
+* [MetroEdge](https://titanembeds.com/embed/295085744249110529?theme=MetroEdge)
 
 You can select a theme for your embed by using the ``theme`` query parameter. It's used as follows:
 ``theme=<ThemeName>``.
